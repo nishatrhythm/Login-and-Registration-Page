@@ -1,5 +1,5 @@
 # Login and Registration Page
- Login and registration page using HTML, CSS and Javascript
+ Login and registration page using HTML, CSS and JavaScript
  
 <figure>
   <figcaption>Screenshot 1</figcaption>
